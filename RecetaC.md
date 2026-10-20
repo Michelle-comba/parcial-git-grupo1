@@ -1,7 +1,7 @@
 Panqueques de banano
 <br>
 <!-- Link: https://images.unsplash.com/photo-1528207776546-365bb710ee93 -->
-<img src="link" alt="Panqueques de banano" width="600">
+<img src="https://github.com/pycamargom/parcial-git-grupo1/blob/main/link" alt="Panqueques de banano" width="600">
 <br><br>
 Ingredientes
 <br>
